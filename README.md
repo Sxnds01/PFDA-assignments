@@ -14,3 +14,6 @@ Like with assignment 2, assignment 3 practises visualising data but includes cle
 
 ## Assignment 5: Risk.ipynb
 This assignment explores concepts of `NumPy` such as random number generators and 1D and 2D arrays. These concepts are explored through simulating 1000 battle rounds from the board game Risk.
+
+## Assignment 6: Weather.ipynb (2) 
+This assignment explores the `datetime` module and the `Timeseries` module which is often used to clean large datasets that may have dates in different formats or missing data. The dataset in this assignment had to go through rigorous cleaning using modules such as `numpy` and `datetime` in order to plot graphs from it.
